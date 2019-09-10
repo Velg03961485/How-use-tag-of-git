@@ -13,7 +13,7 @@ you can create new branch,and how to use tag of commit through new branch
 #### git命令
 
 
-查看当前分支的提交记录      =>   git log --oneline
+查看当前分支的提交记录      =>   git log --oneline     这是v1.0.2第二次修改
 
 
 
