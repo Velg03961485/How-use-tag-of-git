@@ -18,3 +18,17 @@ you can create new branch,and how to use tag of commit through new branch
 这是v1.0.2 tag_1 的tag修复分支
 
 我这是v1.0.1 更改的记录   上面是 v1.0.2更改的记录
+
+
+#### 把标记推送远程
+
+
+git push origin --tags 
+
+
+git push origin tagName
+
+
+
+
+
